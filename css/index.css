@@ -44,7 +44,7 @@ body {
   height: 8px;
 }
 *::-webkit-scrollbar-thumb {
-  background: #000;
+  background: #3b4c60;
 }
 *::-webkit-scrollbar-track {
   background-color: transparent;
@@ -54,7 +54,7 @@ body {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: #000;
+  background: #3b4c60;
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -126,7 +126,7 @@ hr:before {
   top: -10px;
   left: 5%;
   z-index: 1;
-  color: #000;
+  color: #3b4c60;
   content: '\f0c4';
   font: normal normal normal 14px/1 FontAwesome;
   font-size: 20px;
@@ -144,7 +144,7 @@ details {
   border: 2px solid #d6d6d6;
 }
 details summary {
-  color: #000;
+  color: #3b4c60;
 }
 .not-code {
   margin: 0.5em;
@@ -1245,8 +1245,8 @@ figure.highlight {
 blockquote {
   margin: 0 0 1rem;
   padding: 0.1rem 0.8rem;
-  border-left: 0.2rem solid #000;
-  background-color: #545454;
+  border-left: 0.2rem solid #3b4c60;
+  background-color: #8ba0b8;
   color: #6a737d;
 }
 blockquote a {
@@ -1544,7 +1544,7 @@ blockquote footer cite:before {
   height: 0 !important;
 }
 #aside_content {
-  width: 25%;
+  width: 19%;
 }
 #aside_content .card-widget {
   overflow: hidden;
@@ -1653,7 +1653,7 @@ blockquote footer cite:before {
   position: relative;
   z-index: 1;
   display: block;
-  background-color: #000;
+  background-color: #3b4c60;
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
@@ -1676,7 +1676,7 @@ blockquote footer cite:before {
   word-break: keep-all;
 }
 #aside_content .card-tag-cloud a:hover {
-  color: #000 !important;
+  color: #3b4c60 !important;
 }
 #aside_content .card-recent-post .aside-recent-item {
   margin: 10px 0 -15px;
@@ -1730,7 +1730,7 @@ blockquote footer cite:before {
   -webkit-box-orient: vertical;
 }
 #aside_content .card-recent-post .aside-recent-item > .aside-recent-post > a .aside-post-title .aside-post_title:hover {
-  color: #000 !important;
+  color: #3b4c60 !important;
 }
 #aside_content .card-archives ul.archive-list,
 #aside_content .card-categories ul.aside-category-item {
@@ -1751,7 +1751,7 @@ blockquote footer cite:before {
 #aside_content .card-archives ul.archive-list > .archive-list-item:hover,
 #aside_content .card-categories ul.aside-category-item > .aside-category-list:hover {
   padding: 0.2rem 0.85rem;
-  background-color: #000;
+  background-color: #3b4c60;
   color: #363636;
 }
 #aside_content .card-archives ul.archive-list > .archive-list-item a,
@@ -1820,7 +1820,7 @@ blockquote footer cite:before {
 }
 @media screen and (min-width: 900px) {
   #aside_content .card-widget {
-    margin-left: 15px;
+    margin-right: 15px;
   }
 }
 .category-content ol,
@@ -1859,7 +1859,7 @@ blockquote footer cite:before {
   position: absolute;
   top: 0;
   left: 0;
-  background: #000;
+  background: #3b4c60;
   color: #fff;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-out;
@@ -1887,7 +1887,7 @@ blockquote footer cite:before {
   margin-left: 0.45rem;
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #000;
+  border: 0.15rem solid #3b4c60;
   border-radius: 0.3rem;
   background: #fff;
   content: '';
@@ -1910,7 +1910,7 @@ blockquote footer cite:before {
 #vcomment button {
   padding: 0.3rem 1rem;
   border-color: #fff;
-  background-color: #000;
+  background-color: #3b4c60;
   color: #fff;
   font-size: 0.7rem;
 }
@@ -1950,13 +1950,13 @@ blockquote footer cite:before {
 }
 #vcomment .vat {
   padding: 0 0.8rem;
-  border: 1px solid #000;
+  border: 1px solid #979ba2;
   border-radius: 5px;
-  color: #000;
+  color: #979ba2;
   font-size: 0.7125rem;
 }
 #vcomment .vat:hover {
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(151,155,162,0.5);
 }
 #vcomment code,
 #vcomment pre {
@@ -2002,7 +2002,7 @@ blockquote footer cite:before {
   bottom: 0;
   left: 0;
   z-index: -1;
-  background: #000;
+  background: #3b4c60;
   content: '';
   -webkit-transition-timing-function: ease-out;
   -moz-transition-timing-function: ease-out;
@@ -2087,7 +2087,7 @@ blockquote footer cite:before {
 #footer {
   position: relative;
   margin-top: 1rem;
-  background: #000;
+  background: #3b4c60;
   background-attachment: local;
   background-position: bottom;
   -webkit-background-size: cover;
@@ -2119,7 +2119,7 @@ blockquote footer cite:before {
   position: relative;
   margin-bottom: 1rem;
   width: 100%;
-  background-color: #000;
+  background-color: #3b4c60;
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -2139,7 +2139,7 @@ blockquote footer cite:before {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
-  height: 100vh;
+  height: 462px;
 }
 #nav.not_index_bg {
   height: 20rem;
@@ -2259,7 +2259,7 @@ header {
 #page-header.fixed a:hover,
 #page-header.fixed #site-name:hover,
 #page-header.fixed .toggle-menu:hover {
-  color: #000;
+  color: #3b4c60;
 }
 #page-header.visible {
   -webkit-transition: all 0.5s;
@@ -2316,7 +2316,7 @@ header {
   z-index: -1;
   width: 0;
   height: 3px;
-  background-color: #4d4d4d;
+  background-color: #6580a0;
   content: '';
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -2357,7 +2357,7 @@ header {
   text-align: center;
 }
 #page-header .menus_item .menus_item_child li:hover {
-  background: #000;
+  background: #3b4c60;
 }
 #page-header .menus_item .menus_item_child li a {
   color: #3b3a3a;
@@ -2514,7 +2514,7 @@ header {
   width: 70%;
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items span:hover {
-  color: #000;
+  color: #3b4c60;
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items .menus-expand {
   position: absolute;
@@ -2568,7 +2568,7 @@ header {
   text-decoration: none;
 }
 #mobile-sidebar #mobile-sidebar-toc .toc_mobile_items-link:hover {
-  color: #000;
+  color: #3b4c60;
 }
 .note {
   position: relative;
@@ -2725,7 +2725,7 @@ header {
   max-width: 1200px;
 }
 #recent-posts {
-  width: 75%;
+  width: 59%;
 }
 #recent-posts > .recent-post-item {
   display: -webkit-box;
@@ -2748,7 +2748,7 @@ header {
   align-items: center;
   margin-top: 20px;
   padding: 0;
-  height: 280px;
+  height: 248px;
   border-radius: 8px;
   background: #fff;
   -webkit-box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
@@ -2790,8 +2790,8 @@ header {
 }
 #recent-posts > .recent-post-item .post_cover {
   overflow: hidden;
-  width: 45%;
-  height: 280px;
+  width: 55%;
+  height: 249px;
 }
 #recent-posts > .recent-post-item .post_cover img.post_bg {
   display: block;
@@ -2840,7 +2840,7 @@ header {
   -webkit-line-clamp: 2;
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-title:hover {
-  color: #000 !important;
+  color: #3b4c60 !important;
 }
 #recent-posts > .recent-post-item >.recent-post-info > time {
   color: #858585;
@@ -2963,7 +2963,7 @@ header {
   z-index: 1;
   width: 0.5rem;
   height: 0.5rem;
-  border: 0.25rem solid #000;
+  border: 0.25rem solid #3b4c60;
   border-radius: 0.5rem;
   background: #fff;
   content: '';
@@ -3002,7 +3002,7 @@ header {
   left: calc(-1rem - 17px);
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #000;
+  border: 0.15rem solid #3b4c60;
   border-radius: 0.3rem;
   background: #fff;
   content: '';
@@ -3017,7 +3017,7 @@ header {
   font-size: 1rem;
 }
 .article-sort-item.year:hover:before {
-  border-color: #000;
+  border-color: #3b4c60;
 }
 .article-sort-item.year:before {
   top: 0.7rem;
@@ -3043,7 +3043,7 @@ header {
   -webkit-box-orient: vertical;
 }
 .article-sort-item__title:hover {
-  color: #000;
+  color: #3b4c60;
   -webkit-transform: translateX(20px);
   -moz-transform: translateX(20px);
   -o-transform: translateX(20px);
@@ -3166,6 +3166,23 @@ header {
     margin: 0;
   }
 }
+@media screen and (min-width: 900px) {
+  #recent-posts,
+  #page,
+  .category-content,
+  #archive,
+  .tag-cloud,
+  .flink,
+  #tag,
+  #category {
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -o-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
+  }
+}
 @media screen and (max-width: 900px) {
   #page,
   .category-content,
@@ -3198,7 +3215,7 @@ header {
   cursor: pointer;
 }
 #pagination .page-number.current {
-  background: #000;
+  background: #979ba2;
   color: #fff;
   cursor: default;
 }
@@ -3301,7 +3318,7 @@ header {
   position: relative;
   margin-bottom: 1rem;
   height: 19rem;
-  background-color: #000;
+  background-color: #3b4c60;
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -3409,7 +3426,7 @@ header {
 #post-content h4:hover:before,
 #post-content h5:hover:before,
 #post-content h6:hover:before {
-  color: #000;
+  color: #3b4c60;
 }
 #post-content h1 {
   padding-left: 1.3rem;
@@ -3525,7 +3542,7 @@ header {
   position: absolute;
   top: 0;
   left: 0;
-  background: #000;
+  background: #3b4c60;
   color: #fff;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-out;
@@ -3553,7 +3570,7 @@ header {
   margin-left: 0.45rem;
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #000;
+  border: 0.15rem solid #3b4c60;
   border-radius: 0.3rem;
   background: #fff;
   content: '';
@@ -3568,7 +3585,7 @@ a {
   transition: all 0.2s;
 }
 a:hover {
-  color: #000;
+  color: #3b4c60;
   text-decoration: none;
 }
 a#site-name {
@@ -3706,10 +3723,10 @@ img {
   margin: 0.4rem 0.4rem 0.4rem 0;
   padding: 0 0.6rem;
   width: fit-content;
-  border: 1px solid #000;
+  border: 1px solid #3b4c60;
   border-radius: 0.6rem;
   background: #fff;
-  color: #000;
+  color: #3b4c60;
   text-decoration: none;
   font-size: 12px;
   cursor: pointer;
@@ -3720,7 +3737,7 @@ img {
   transition: all 0.2s ease-in-out;
 }
 .layout_post >.tag_share .post-meta__tags:hover {
-  background: #000;
+  background: #3b4c60;
   color: #fff;
 }
 .layout_post >.tag_share .post_share {
@@ -3757,7 +3774,7 @@ img {
   width: 0.8rem;
   height: 0.8rem;
   border-radius: 0.8rem;
-  background: #000;
+  background: #3b4c60;
   content: '';
 }
 .layout_post > .post-copyright:after {
@@ -3775,7 +3792,7 @@ img {
   box-shadow: 0 0 8px 0 rgba(232,237,250,0.6), 0 2px 4px 0 rgba(232,237,250,0.5);
 }
 .layout_post > .post-copyright .post-copyright-meta {
-  color: #000;
+  color: #3b4c60;
   font-weight: bold;
 }
 .layout_post > .post-copyright .post-copyright-info {
@@ -3785,7 +3802,7 @@ img {
   word-break: break-word;
 }
 .layout_post #post a {
-  color: #000;
+  color: #3b4c60;
   text-decoration: none;
 }
 .layout_post #post a:hover {
@@ -4033,7 +4050,7 @@ img {
   z-index: 1;
   display: inline-block;
   width: 100px;
-  background: #000;
+  background: #3b4c60;
   color: #fff;
   text-align: center;
   line-height: 36px;
@@ -4147,7 +4164,7 @@ img {
   margin-bottom: 2px;
   width: 30px;
   height: 30px;
-  background-color: #000;
+  background-color: #3b4c60;
   color: #fff;
   text-align: center;
   text-decoration: none;
@@ -4349,15 +4366,15 @@ img {
   transition: all 0.2s ease-in-out;
 }
 #sidebar .sidebar-toc .toc-link.active {
-  border-right-color: #000;
-  background: #000;
+  border-right-color: #767b84;
+  background: #979ba2;
   color: #fff;
 }
 #sidebar .sidebar-toc__progress {
   position: relative;
   margin-top: -0.3rem;
   padding-left: 0.6rem;
-  color: #000;
+  color: #979ba2;
 }
 #sidebar .sidebar-toc__progress .progress-notice {
   margin-right: 0.4rem;
@@ -4369,7 +4386,7 @@ img {
 #sidebar .sidebar-toc__progress-bar {
   width: 0;
   height: 1px;
-  background: #000;
+  background: #979ba2;
 }
 [data-theme='dark'] body {
   background-color: #0d0d0d;
